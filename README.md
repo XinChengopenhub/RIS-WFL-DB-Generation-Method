@@ -1,8 +1,8 @@
 # RIS-WFL-DB-Generation-Method
 A Fingerprint Database Generation Method for RIS-Assisted Indoor Positioning
 
-This simulation code package is mainly used to generate Indoor RIS-assisted Wireless Fingerprint Localization  Database using the method of the following paper [1]:
-[1] Cheng X, He Y, Li M, et al. A fingerprint database generation method for RIS-assisted indoor positioning[J]. IEEE Transactions on Wireless Communications, 2026, 25: 11932-11948.
+This simulation code package is mainly used to generate Indoor RIS-assisted Wireless Fingerprint Localization  Database using the method of the following paper:
+Cheng X, He Y, Li M, et al. A fingerprint database generation method for RIS-assisted indoor positioning[J]. IEEE Transactions on Wireless Communications, 2026, 25: 11932-11948.
 
 *********************************************************************************************************************************
 
